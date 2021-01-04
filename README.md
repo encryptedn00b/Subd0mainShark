@@ -1,4 +1,4 @@
-# Subd0mainShark🌊
+# Subd0mainShark !
 <img src="Shark.jpg"><br>
 * `Subd0main Shark is a python tool designed to enumerate subdomains of websites⚡`
 
