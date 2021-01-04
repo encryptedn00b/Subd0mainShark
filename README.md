@@ -9,7 +9,7 @@
 ## Disclaimer
 *This tool is for educational purposes only !*<br />
 
-_I will not be responsible for any misuse_⚠️
+*I will not be responsible for any misuse*⚠️
 
 ## Usage
 Clone it by
