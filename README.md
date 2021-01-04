@@ -8,7 +8,7 @@
 
 ## Disclaimer
 *This tool is for educational purposes only !*<br />
-_I will not be responsible for any misuse_
+*_I will not be responsible for any misuse_*
 
 ## Usage
 Clone it by
